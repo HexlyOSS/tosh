@@ -1,0 +1,27 @@
+/* NAVIGATION BAR */
+
+/* Logo */
+    #logo_size{
+        width: 20%;
+        height: auto;
+    }
+
+/* Google maps */
+
+
+/* YELP */
+.yelp{
+    width: 100%;
+    height: 100%;
+}
+
+
+/* Home Page */
+
+/* About Page */
+
+/* FOOTER */
+#footer{
+    color: rgb(187, 209, 196);
+    background-color: brown
+}

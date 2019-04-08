@@ -1,5 +1,7 @@
+    <footer class="container" id="footer">
+        <p>Footer goes HERE</p>
 
-<footer>
-</footer>
-</body>
+    </footer>
+    
+    </body>
 </html>
