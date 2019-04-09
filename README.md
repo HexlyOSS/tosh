@@ -38,7 +38,4 @@ Utility : Push or Pull your changes to remote. If you have added and committed y
 ```
 $ git push
 ```
-<<<<<<< HEAD
 
-=======
->>>>>>> 8bc1bcd30cd6403683d052162d462f96ef54b219
