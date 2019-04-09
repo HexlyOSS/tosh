@@ -1,5 +1,8 @@
 /* NAVIGATION BAR */
-
+#navbarstyle{
+    color: rgb(255, 255, 255);
+    background-color: #e05b33;
+}
 /* Logo */
     #logo_size{
         width: 20%;
@@ -22,6 +25,6 @@
 
 /* FOOTER */
 #footer{
-    color: rgb(187, 209, 196);
-    background-color: brown
+    color: rgb(255, 255, 255);
+    background-color: #e05b33;
 }

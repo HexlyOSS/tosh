@@ -1,4 +1,4 @@
-<div class="container">
+        <div class="container">
             <div class="row">
                 <div class="col-sm">
                     <p><strong>Salt Lake City</strong>
@@ -42,10 +42,4 @@
                 </div>
             </div>
         </div>
-    
-
-
-
-
-
 
