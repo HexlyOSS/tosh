@@ -20,17 +20,17 @@
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <img src="img/toshis_karai-ramen.jpg" alt="Karai Romen" width="1100" height="500" class="d-block w-100"> 
-            <div class="carousel-caption">
-                <h3>Karai Romin</h3>
-                <p></p>
-            </div>   
+                <div class="carousel-caption">
+                    <h3>Karai Romin</h3>
+                    <p></p>
+                </div>   
             </div>
             <div class="carousel-item">
                 <img src="img/toshis_tokyo-wing.jpg" alt="Tokyo Wings" width="1100" height="500">
-            <div class="carousel-caption">
-                <h3>Tokyo Wings</h3>
-                <p></p>
-            </div>   
+                <div class="carousel-caption">
+                    <h3>Tokyo Wings</h3>
+                    <p></p>
+                </div>   
             </div>
             <div class="carousel-item">
                 <img src="img/toshis_vege-ramen.jpg" alt="Vegi Romen" width="1100" height="500">
@@ -71,4 +71,3 @@
     <!-- FOOTER goes HERE -->
     <?php include('footer.php'); ?>
     
-        

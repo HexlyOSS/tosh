@@ -24,6 +24,9 @@
 					<li class="nav-link">
 							<a class="nav-link" href="about.php">About Tosh</a>
 					</li>
+					<li class="nav-link">
+							<a class="nav-link" href="form.php">Find US</a>
+					</li>
 				</ul>
 			</div>
 		</nav>

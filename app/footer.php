@@ -1,3 +1,4 @@
+    <br><br>
     <footer class="container" id="footer">
         <p>Footer goes HERE</p>
 

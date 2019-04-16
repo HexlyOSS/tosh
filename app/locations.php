@@ -1,7 +1,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm">
-                    <p><strong>Salt Lake City</strong>
+                    <p class="card-text"><strong>Salt Lake City</strong>
                     <br>1465 S. State Ste.
                     <br>Salt Lake City, UT
                     <br>
